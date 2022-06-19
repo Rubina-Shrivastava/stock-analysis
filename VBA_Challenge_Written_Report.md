@@ -13,14 +13,14 @@ Maintainability: After refactoring, the code is easier to understand or read, le
 Time Consuming: You may have no idea how much time it may take to complete the process.
 
 ### Doing stock analysis on 2018 with or without refactor code  we  can see the  "Time " diffrence in our images 
-https://github.com/Rubina-Shrivastava/stock-analysis/blob/main/2018%20stockanalysis.png
+![Result of 2018 Without Refactoring](https://github.com/Rubina-Shrivastava/stock-analysis/blob/main/2018%20stockanalysis.png)
 
-https://github.com/Rubina-Shrivastava/stock-analysis/blob/main/VBA_Challenge_2018.png
+![Result of 2018 With Refactoring](https://github.com/Rubina-Shrivastava/stock-analysis/blob/main/VBA_Challenge_2018.png)
 
 ### ### Doing stock analysis on 2017 with or without refactor code  we  can see the  "Time " diffrence in our images
-https://github.com/Rubina-Shrivastava/stock-analysis/blob/main/2017%20stockanalysis.png
+![Result of 2017 Without Refactoring](https://github.com/Rubina-Shrivastava/stock-analysis/blob/main/2017%20stockanalysis.png)
 
-https://github.com/Rubina-Shrivastava/stock-analysis/blob/main/VBA_Challenge_2017.png
+![Result of 2017 With Refactoring](https://github.com/Rubina-Shrivastava/stock-analysis/blob/main/VBA_Challenge_2017.png)
 
 ## Results
 Refactoring is common on the job because first attempts at code won’t always be the best way to accomplish a task. Sometimes, refactoring someone else’s code will be your entry point to working with the existing code at a job.
